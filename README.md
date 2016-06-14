@@ -1,2 +1,2 @@
-# notes
-Just some random public notes
+# Notes
+Just some random public notes.
