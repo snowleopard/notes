@@ -1,4 +1,4 @@
-|                           | Dynamic dependencies | Shared build | Non-determinism | Stores all intermediates |
+| Build system              | Dynamic dependencies | Shared build | Non-determinism | Stores all intermediates |
 |---------------------------|:--------------------:|:------------:|:---------------:|:------------------------:|
 | Nick's build system       |          No          |      Yes     |       Yes       |            No            |
 | Shake                     |          Yes         |      No      |       Yes       |            Yes           |
