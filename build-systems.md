@@ -1,4 +1,4 @@
-|                     | Dynamic dependencies | Shared build | Supports non-determinism | Benefits from determinism | Stores all intermediates |
+| Build system        | Dynamic dependencies | Shared build | Supports non-determinism | Benefits from determinism | Stores all intermediates |
 |:-------------------:|:--------------------:|:------------:|:------------------------:|:-------------------------:|:------------------------:|
 | Bazel               |          No          |      Yes     |            No            |            Yes            |            Yes           |
 | Buck                |          No          |      Yes     |            No            |         Yes, a lot        |            Yes           |
